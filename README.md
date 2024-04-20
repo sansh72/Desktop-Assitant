@@ -1,4 +1,3 @@
-
 Dexter: Your Desktop Assistant
 Dexter is a versatile desktop assistant designed to simplify your daily tasks and enhance productivity. With Dexter at your service, you can effortlessly manage various activities right from your computer.
 
